@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1787941849,
+	"version": 1788024200,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -214,6 +214,8 @@
 		"images/flagb-sheet0.png",
 		"images/flagb-sheet1.png",
 		"images/sprite64-sheet0.png",
+		"images/sprite68-sheet0.png",
+		"images/sprite69-sheet0.png",
 		"media/dice-roll.m4a",
 		"media/dice-roll.ogg",
 		"media/fightstart.m4a",
